@@ -2,16 +2,9 @@
 
 ### Hi there, I'm Eugene 👋
 
-### My nickname - Jamalrom
-
 - 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 👯 I’m looking to collaborate on ...in progress...
-- 🤔 I’m looking for help with ...in progress...
-- 💬 Ask me about ...in progress...
+- 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me: **infopavlovskiy@gmail.com**
-- 😄 Pronouns: ...in progress...
-- ⚡ Fun fact: ...in progress...
 
 ### My stack and tools
 
