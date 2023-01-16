@@ -1,10 +1,4 @@
-<h1>Creativity creates... 👨‍🎨</h1>
 
-### Hi there, I'm Eugene 👋
-
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **JavaScript**
-- 📫 How to reach me: **infopavlovskiy@gmail.com**
 
 ### My stack and tools
 
