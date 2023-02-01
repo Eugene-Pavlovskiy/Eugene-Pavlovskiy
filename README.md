@@ -2,4 +2,8 @@
 
 ### My stack and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nextjs,nodejs,figma&theme=light,bash,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,figma&theme=light,git,github,bash" />
+  </a>
+</p>
