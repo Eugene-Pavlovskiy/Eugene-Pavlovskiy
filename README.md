@@ -2,6 +2,8 @@
 
 ### My stack and tools
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,nodejs,figma&theme=light)](https://skillicons.dev)
+
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
