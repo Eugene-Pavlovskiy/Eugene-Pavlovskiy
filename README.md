@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,nextjs,nodejs," />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,nextjs,nodejs,vscode,bash,git" />
   </a>
 </p>
 
-vscode,bash,git,github,codepen,mongodb,netlify,figma&theme=light,ps,blender
+,github,codepen,mongodb,netlify,figma&theme=light,ps,blender
