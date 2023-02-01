@@ -1,4 +1,4 @@
-<h2 text-align="center">My stack and tools</h2>
+<h2 align="center">My stack and tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,blender" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,blender" />
   </a>
 </p>
